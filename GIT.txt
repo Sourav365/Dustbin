@@ -1,0 +1,8 @@
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+1. git clone https://github.com/Sourav365/Dustbin.git
+2. git status  // If any new files
+3. git add filename.c  // add file as new file.
+4. git commit -m "<Any messages>"
+5. git push  // push everything to github.com
