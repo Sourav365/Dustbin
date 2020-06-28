@@ -6,3 +6,4 @@ git config --global user.name "Your Name"
 3. git add filename.c  // add file as new file.
 4. git commit -m "<Any messages>"
 5. git push  // push everything to github.com
+hii
